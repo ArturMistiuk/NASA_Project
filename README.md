@@ -1,4 +1,4 @@
-# Project Title: "Solar Panel Farm Optimization Using NASA API Data"
+# Solar Panel Farm Optimization Using NASA API Data
 
 ## Project Description:
 
