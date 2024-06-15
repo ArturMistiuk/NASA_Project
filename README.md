@@ -20,7 +20,7 @@ This table provides detailed information about the sky conditions at the specifi
 
 ### Cloud Amount Percentage by Month
 
-![Cloud Amount Percentage by Month](cloud_amount.png)
+![Cloud Amount Percentage by Month](clouds.png)
 
 This plot shows the percentage of cloud coverage for each month. It provides insights into the monthly variability in cloudiness, which can affect the efficiency of solar panels. Understanding cloud patterns is essential for predicting potential reductions in solar energy output due to cloud cover.
 
